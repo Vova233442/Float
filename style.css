@@ -94,3 +94,15 @@
 .clearfix1{
    clear: both;
 }
+.logo4{
+   width: 150px;
+   height: 150px;
+   background-color: grey;
+   float: left;
+   margin: 10px;
+
+}
+.block4{
+   float: right;
+   margin-top: 20px;
+}
